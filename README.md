@@ -1,4 +1,6 @@
 ## Instructions to run
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/57f277e4-ee6e-4498-ae9b-db3812dadb09.svg?orgId=472689022381)](https://app.soluble.cloud/repos/details/github.com/chrisfrostlw/youtube-stats?orgId=472689022381)  
 1. Clone repository
 2. Run npm install to install node modules
 3. Add your API key in the .env file (replace YOURAPIKEY with your real API Key). Instructions to obtain API key found [here](https://www.slickremix.com/docs/get-api-key-for-youtube/)
